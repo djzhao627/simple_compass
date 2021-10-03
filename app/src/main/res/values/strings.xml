@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Locaty</string>
+    <string name="compass_image_content_desc">指南针图片</string>
+    <string name="not_available">未知</string>
+    <string name="stop_notifications">停止通知</string>
+</resources>
